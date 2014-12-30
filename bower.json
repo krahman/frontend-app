@@ -14,5 +14,8 @@
     "app/components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "angularjs": "~1.3.8"
+  }
 }

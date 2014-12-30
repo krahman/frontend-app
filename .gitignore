@@ -3,3 +3,11 @@
 
 # To ignore node_modules folder
 node_modules
+
+# To ignore bower components folder
+app/components
+
+# To ignore bower folders
+.bower-tmp
+.bower-cache
+.bower-registry
